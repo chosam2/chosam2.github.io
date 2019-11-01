@@ -1,14 +1,22 @@
-
 ---
-title: "쿠버네티스 디플로이먼트"
-date: 2019-11-01 23:50:00 -0400
-categories: 쿠버네티스
+title: "Welcome to Jekyll!"
+date: 2017-10-20 08:26:28 -0400
+categories: jekyll update
 ---
+쿠버네티스
 
-일단 쿠버네티스 클러스터를 구동시키면, 그 위에 컨테이너화된 애플리케이션을 배포할 수 있다. 그러기 위해서, 쿠버네티스 `디플로이먼트` 설정을 만들어야 한다. 디플로이먼트는 쿠버네티스가 애플리케이션의 인스턴스를 어떻게 생성하고 업데이트해야 하는지를 지시한다. 디플로이먼트가 만들어지면, 쿠버네티스 마스터가 해당 애플리케이션 인스턴스를 클러스터의 개별 노드에 스케줄한다.
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 Jekyll also offers powerful support for code snippets:
 
-출처
-[쿠버네티스-디플로이먼트]
-[쿠버네티스-디플로이먼트]: https://kubernetes.io/ko/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/
+​```python
+def print_hi(name):
+  print("hello", name)
+print_hi('Tom')
+​```
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
