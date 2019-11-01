@@ -1,7 +1,7 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+title: "쿠버네티스 디플로이먼트"
+date: 2019-11-01 23:50:28 -0400
+categories: 쿠버네티스 디플로이먼트
 ---
 쿠버네티스
 
